@@ -1,0 +1,13 @@
+#fisso {
+
+    background-color: aquamarine;
+    padding-top: 100px;
+}
+
+.contatti {
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px; 
+    align-items: center;
+    /* text-align: justify; */
+}

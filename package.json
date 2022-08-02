@@ -18,6 +18,7 @@
     "ionicons": "^5.4.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-hook-form": "^7.34.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^5.0.0",
@@ -63,5 +64,5 @@
   "devDependencies": {
     "@capacitor/cli": "4.0.1"
   },
-  "description": "An Ionic project"
+  "description": "Un semplice progetto Ionic"
 }
